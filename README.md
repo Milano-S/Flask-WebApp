@@ -1,2 +1,2 @@
 # Flask-WebApp
-A todo app written in Flask.
+Web app written in Flask.
